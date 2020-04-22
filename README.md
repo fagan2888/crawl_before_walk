@@ -1,2 +1,2 @@
 # crawl_before_walk
-Example of creating a crawler for microprediction
+Example of creating a crawler for www.microprediction.org
